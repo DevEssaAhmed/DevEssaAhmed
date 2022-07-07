@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essaahmd&label=Profile%20views&color=0e75b6&style=flat" alt="essaahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=essaahmd&theme=onedark" alt="essaahmed" /></a> </p>
+## Github Analytics
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=essaahmd&no-bg=true&no-frame=true&theme=onedark&column=7" />
+<!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
+</p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
