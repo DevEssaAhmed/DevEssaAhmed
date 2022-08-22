@@ -17,6 +17,14 @@
 
 - 📫 How to reach me **essaahmedsiddiqui@gmail.com**
 
+## Find me at:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/essaahmd/)](https://github.com/essaahmd/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/essa-ahmed/)](https://www.linkedin.com/in/essa-ahmed)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/imsiddiquie)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/essa-ahmed)](https://www.hackerrank.com/essa-ahmed)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/essa-ahmed)](https://stackoverflow.com/users/15072792/essa-ahmed)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:essaahmedsiddiqui@gmail.com)](mailto:essaahmedsiddiqui@gmail.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/essaahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="essaahmed" height="30" width="40" /></a>
