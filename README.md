@@ -20,9 +20,9 @@
 ## Find me at:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/essaahmd/)](https://github.com/essaahmd/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/essa-ahmed/)](https://www.linkedin.com/in/essa-ahmed)
-[![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/imsiddiquie)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/essa-ahmed)](https://www.hackerrank.com/essa-ahmed)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/essa-ahmed)](https://stackoverflow.com/users/15072792/essa-ahmed)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com//)](https://twitter.com/imsiddiquie)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/essaahmed)](https://www.hackerrank.com/essaahmed)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/18962317/essa-ahmed)](https://stackoverflow.com/users/18962317/essa-ahmed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:essaahmedsiddiqui@gmail.com)](mailto:essaahmedsiddiqui@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/essa.ahmed123)](https://www.facebook.com/essa.ahmed123)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@essa-ahmed)](https://medium.com/@essa-ahmed)
