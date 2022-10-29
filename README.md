@@ -52,7 +52,7 @@
 ## 🧰 Frameworks and libraries
 
 ### Frontend Technologies
-<p align=center>
+<p align=left>
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -65,41 +65,45 @@
 </p>
 
 ### Backend Technologies
+<p align="left">
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> </a>
-
+</p>
 
 ### Database
+<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/> </a>
+  </p>
   
 ### ⛓Blockchain
 
 ##### Library
-<p align="left">
+<p align="center">
  <img src="https://img.shields.io/badge/Ethers.js-7A98FB?style=for-the-badge&logo=Ethers.js&logoColor=white" alt="Ethers.js">
  <img src="https://img.shields.io/badge/web3.py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Web3.py">
   <img alt="web3" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
  </p>
  
  ##### Frameworks
- <p align="left">
+<p align="center">
  <img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
  <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Brownie">
  </p>
  
  ##### Testing
- <p align="left">
+ <p align="center">
  <img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
  <img src="https://img.shields.io/badge/Chai-f6e8c9?style=for-the-badge&logo=Chai&logoColor=a40802" alt="Chai">
  <img src="https://img.shields.io/badge/Pytest-e6e7e7?style=for-the-badge&logo=python&logoColor=00a0e4" alt="Pytest">
  </p>
 
  ##### Offchain
+ <p align="center">
   <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
 <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
  <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
@@ -107,7 +111,7 @@
 
 ### Others
 
-<p>
+<p align=center>
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
     <img alt="chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
@@ -117,8 +121,26 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
   <img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
 </p>
+
+<hr>
+
+
+## <img src="https://raw.githubusercontent.com/EssaAhmd/myreadmetemplates/main/ai.png?token=GHSAT0AAAAAABVZXBWEOKJQWPTZCOVOVZ2AY25JBUA" width="25px"/> Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=#F37626" alt="Chai">
+</p>
+<hr>
+
+## 🎨 UI/UX
+<p>
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=F24E1E" alt="Figma">
+<img src="https://img.shields.io/badge/XD-450034?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="XD">
+<img src="https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=#31A8FF" alt="Photoshop">
+<img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=ff9a00" alt="Illustrator">
+</p>
+
 <hr>
 
 ## 📌 GitHub Stats
