@@ -126,7 +126,7 @@
 <hr>
 
 
-## <img src="https://raw.githubusercontent.com/EssaAhmd/myreadmetemplates/main/ai.png?token=GHSAT0AAAAAABVZXBWEOKJQWPTZCOVOVZ2AY25JBUA" width="25px"/> Machine Learning
+## 🧬Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=#F37626" alt="Chai">
