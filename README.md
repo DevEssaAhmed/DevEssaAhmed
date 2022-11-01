@@ -1,5 +1,12 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Essa Ahmed Siddiqui</h1>
+
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Essa Ahmed Siddiqui</h1> -->
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F1AF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Essa+Ahmed+Siddiqui" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate fullstack developer and Industrial and Manufacturing Engineer from Pakistan.</h3>
 
 <p align="center">
