@@ -26,7 +26,7 @@
 </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
-
+- 👨‍💻 All of my projects are available at [https://essaahmed.netlify.app/](https://essaahmed.netlify.app/)
 - 💬 Ask me about **react,django,vue,python,mern stack**
 
 - 📫 How to reach me **essaahmedsiddiqui@gmail.com**
