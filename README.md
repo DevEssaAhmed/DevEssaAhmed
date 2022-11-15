@@ -7,7 +7,7 @@
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F1AF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Essa+Ahmed+Siddiqui" alt="Typing SVG" />
 </p>
-<h3 align="center">A passionate fullstack developer and Industrial and Manufacturing Engineer from Pakistan.</h3>
+<h3 align="center">On Road to Web3-Ethereum-Solidity-Polygon-FullStack-Blockchain-Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/essa-ahmed/">
@@ -102,7 +102,7 @@
  <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Brownie">
  </p>
  
- ##### Testing
+<!--  ##### Testing
  <p align="center">
  <img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
  <img src="https://img.shields.io/badge/Chai-f6e8c9?style=for-the-badge&logo=Chai&logoColor=a40802" alt="Chai">
@@ -115,7 +115,7 @@
 <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
  <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
 </p>
-
+ -->
 ### Others
 
 <p align=center>
