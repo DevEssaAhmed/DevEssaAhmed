@@ -19,9 +19,9 @@
 <p align="center"> <a href="https://github.com/essaahmd?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/essaahmd?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
 # My Bio
-<p>Hey there! It's Essa here. I am persuing Bachelors in Industrial Engineering.
+<p>Hey there! It's Essa here. I am pursuing Bachelors in Industrial Engineering.
 
-But I am an Tech Enthusiast and Inquisitive fellow exploring the world of web.
+But I am a Tech Enthusiast and Inquisitive fellow exploring the world of web.
 
 I have experience working with HTML, CSS, JavaScript and React
 
