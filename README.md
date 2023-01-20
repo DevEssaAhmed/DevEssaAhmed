@@ -18,6 +18,15 @@
 <!-- Follow me button (GitHub): -->
 <p align="center"> <a href="https://github.com/essaahmd?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/essaahmd?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
+# My Bio
+<p>Hey there! It's Essa here. I am persuing Bachelors in Industrial Engineering.
+
+But I am an Tech Enthusiast and Inquisitive fellow exploring the world of web.
+
+I have experience working with HTML, CSS, JavaScript and React
+
+Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field. I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team."</p>
+
 ## Github Analytics
 
 <p align="center">
