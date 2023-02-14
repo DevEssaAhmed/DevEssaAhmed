@@ -163,10 +163,10 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 
 <div align="center">
   <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=essaahmd&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D" alt="essaahmed" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=essaahmd&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="essaahmed" />
 </p>
-  <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=essaahmd&langs_count=10&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essaahmd&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" />
+  <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=essaahmd&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essaahmd&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
 
-[![Essa Ahmed's github activity graph](https://activity-graph.herokuapp.com/graph?username=essaahmd&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=essaahmd)
-</div>
+<!-- [![Essa Ahmed's github activity graph](https://activity-graph.herokuapp.com/graph?username=essaahmd&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)(https://activity-graph.herokuapp.com/graph?username=essaahmd)
+</div> -->
