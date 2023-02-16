@@ -12,11 +12,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/essa-ahmed/">
   <img alt="linkedIn" title="Lets connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=essaahmd&color=4981F4&style=for-the-badge"/>
+  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=devessaahmed&color=4981F4&style=for-the-badge"/>
 </p>
 
 <!-- Follow me button (GitHub): -->
-<p align="center"> <a href="https://github.com/essaahmd?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/essaahmd?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/essaahmd?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/devessaahmed?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
 # My Bio
 <p>Hey there! It's Essa here. I am pursuing Bachelors in Industrial Engineering.
@@ -30,7 +30,7 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 ## Github Analytics
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=essaahmd&no-bg=true&no-frame=true&theme=onedark&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=devessaahmed&no-bg=true&no-frame=true&theme=onedark&column=8" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
 
@@ -163,10 +163,10 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 
 <div align="center">
   <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=essaahmd&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="essaahmed" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=devessaahmed&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="essaahmed" />
 </p>
-  <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=essaahmd&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essaahmd&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
+  <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devessaahmed&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devessaahmed&langs_count=10&layout=compact&theme=midnight-purple&show_icons=true&hide_border=false" />
 
 <!-- [![Essa Ahmed's github activity graph](https://activity-graph.herokuapp.com/graph?username=essaahmd&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)(https://activity-graph.herokuapp.com/graph?username=essaahmd)
 </div> -->
