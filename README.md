@@ -18,14 +18,22 @@
 <!-- Follow me button (GitHub): -->
 <p align="center"> <a href="https://github.com/essaahmd?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/devessaahmed?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
+
 # My Bio
-<p>Hey there! It's Essa here. I am pursuing Bachelors in Industrial Engineering.
 
-But I am a Tech Enthusiast and Inquisitive fellow exploring the world of web.
+<a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="300" alt="Essa Ahmed's Dev Card"/></a>
 
-I have experience working with HTML, CSS, JavaScript and React
+ Hey there! It's Essa here. I am pursuing Bachelors in Industrial Engineering.
 
-Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field. I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team."</p>
+ But I am a Tech Enthusiast and Inquisitive fellow exploring the world of web.
+
+ I have experience working with HTML, CSS, JavaScript and React
+
+ Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field.
+ I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team.
+
+
+<h2></h2><br>
 
 ## Github Analytics
 
