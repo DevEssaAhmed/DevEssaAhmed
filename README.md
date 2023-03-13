@@ -37,7 +37,7 @@
 ## Github Analytics
 
 
-<a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="260" alt="Essa Ahmed's Dev Card"/></a>
+<a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="250" alt="Essa Ahmed's Dev Card"/></a>
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=devessaahmed&no-bg=true&no-frame=true&theme=onedark&column=8" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
