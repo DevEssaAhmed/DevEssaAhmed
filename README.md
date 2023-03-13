@@ -21,7 +21,6 @@
 
 # My Bio
 
-<a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="300" alt="Essa Ahmed's Dev Card"/></a>
 
  Hey there! It's Essa here. I am pursuing Bachelors in Industrial Engineering.
 
@@ -37,16 +36,25 @@
 
 ## Github Analytics
 
-<p align="center">
+
+<a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="260" alt="Essa Ahmed's Dev Card"/></a>
+<p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=devessaahmed&no-bg=true&no-frame=true&theme=onedark&column=8" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
+<br>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
+
+
 - 👨‍💻 All of my projects are available at [https://essaahmed.netlify.app/](https://essaahmed.netlify.app/)
+
+
 - 💬 Ask me about **react,django,vue,python,mern stack**
 
+
 - 📫 How to reach me **essaahmedsiddiqui@gmail.com**
+<br>
 
 ## Find me at
 
