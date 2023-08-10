@@ -1,14 +1,17 @@
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+<!--   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" /> -->
+
+  <img src="https://github.com/DevEssaAhmed/DevEssaAhmed/assets/100959596/c6a1b3f4-fdcb-4b9f-af4e-7806f086ea53"/>
 </p>
+
 
 <!-- <h1 align="center">Hi 👋, I'm Essa Ahmed Siddiqui</h1> -->
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Essa+Ahmed+Siddiqui" alt="Typing SVG" />
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F1AF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Essa+Ahmed+Siddiqui" alt="Typing SVG" /> -->
 </p>
-<h3 align="center">Full Stack Web and Developer</h3>
+<h3 align="center">Full Stack Web and App Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/essa-ahmed/">
