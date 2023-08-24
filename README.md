@@ -51,7 +51,7 @@
 
 <a  href="https://app.daily.dev/essa-ahmed"><img align="right" src="https://api.daily.dev/devcards/8e5c664f444c49118635cd1e1d8171b8.png?r=r3n" width="250" alt="Essa Ahmed's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Date Engineering**
 
 
 - 👨‍💻 All of my projects are available at [https://essaahmed.netlify.app/](https://essaahmed.netlify.app/)
@@ -119,7 +119,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/> </a>
   </p>
   
-### ⛓Blockchain
+<!-- ### ⛓Blockchain
 
 ##### Library
 <p align="center">
@@ -133,7 +133,7 @@
  <img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
  <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Brownie">
  </p>
- 
+  -->
 <!--  ##### Testing
  <p align="center">
  <img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
